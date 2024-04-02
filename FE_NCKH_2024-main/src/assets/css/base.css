@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: "Times New Roman", Times, serif;
+    /* font-family: "Times New Roman", Times, serif; */
 }
 
 html , body{
@@ -16,7 +16,6 @@ ul{
 
 
 #main {
-    width: 60%;
     height: auto;
     background-color: white;
     box-shadow: 10px 10px 20px 0px rgba(0, 0, 0, 0.5);

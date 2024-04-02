@@ -121,5 +121,7 @@
     left: 10%;
 }
 
-
-
+.input-message:focus-visible{
+    --tw-ring-color: black;
+    border: 1px solid;
+}
